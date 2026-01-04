@@ -1,0 +1,11 @@
+dash
+pandas
+numpy
+plotly
+openpyxl
+dash-bootstrap-components
+dash-bootstrap-templates
+dash-leaflet
+dash-extensions
+requests
+gunicorn
